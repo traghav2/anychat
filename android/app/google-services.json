@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311141113326",
+    "project_id": "anychat-63b4c",
+    "storage_bucket": "anychat-63b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311141113326:android:b27001bfa65b24dc7e42ff",
+        "android_client_info": {
+          "package_name": "com.anychat.anychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311141113326-hn25782kvgn9vkvbv51pirs13av4ndvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sZzUDkqw8DEjdn5sFp9Ov5bOzRhYp58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311141113326-hn25782kvgn9vkvbv51pirs13av4ndvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
